@@ -6,7 +6,7 @@ wpsupercache-mruby is a fork of wfcache-mruby, which provided support for Wordfe
 The cache-hit headers were inspired by Maxime Jobin's Rocket-Nginx (https://github.com/maximejobin/rocket-nginx)
 
 #Usage
-To use this wfache-mruby as an mruby-handler in h2o, add something like this to your path in h2o.conf
+To use wpsupercache-mruby as an mruby-handler in h2o, add something like this to your path in h2o.conf
 ```
 paths:
   "/":
